@@ -12,8 +12,7 @@ My project is an educational game that provides users with an engaging learning 
 1. Download all files in a ZIP file then extract all files.
 1. Open the project folder `Stellar-Odyssey---Vincent-Hudaja-main` in your code editor (e.g. VS Code).
 2. Install the required dependencies in `requirements.txt` by running `pip install -r requirements.txt` in the terminal or command prompt in the project folder.
-3. Run the main file:  
-   `stellar_odyssey.py`  
+3. Run the main file `stellar_odyssey.py`.
 4. A game window will appear called 'Stellar Odyssey' and continue using the program as so (Press 'Play' to play main game, 'Login' to sign in/up or 'Help' to access game information.
 
 ## Features
