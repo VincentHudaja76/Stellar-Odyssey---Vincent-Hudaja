@@ -5,7 +5,7 @@ ReadMe.md
 # Stellar Odyssey
 
 ## Project Overview
-My project is an educational game that provides users with an engaging learning experience, particularly for younger audiences who struggle to engage with traditional learning methods. Specifically, my game educates players on our Solar System, allowing them to control a player and explore the Solar System and its celestal bodies, engage with informational fact files and explore each celestial bodies' unique surfaces. This project covers a vast range of modules and pygame providing a clean UI, gameplay and data storage to save player progress.
+My project is an educational game that provides users with an engaging learning experience, particularly for younger audiences who struggle to engage with traditional learning methods. Specifically, my game educates players on our Solar System, allowing them to control a player and explore the Solar System and its celestal bodies, engage with informational fact files and explore each celestial bodies' unique surfaces. This project covers a vast range of modules and pygame providing a clean UI, gameplay and data storage, all contributing to a clean, consistent user experience.
 
 
 ## How to Run the Program
