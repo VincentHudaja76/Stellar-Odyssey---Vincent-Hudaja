@@ -11,12 +11,10 @@ My project is an educational game that provides users with an engaging learning 
 ## How to Run the Program
 1. Open the project folder in your code editor (e.g. VS Code).
 2. Install the required dependencies in 
-`requirements.txt`
-by running
-`pip install -r requirements.txt` in the terminal or command prompt.
-4. Run the main file:  
+`requirements.txt` by running `pip install -r requirements.txt` in the terminal or command prompt.
+3. Run the main file:  
    `stellar_odyssey.py`  
-5. Follow the on-screen instructions to play or interact with the program.
+4. Follow the on-screen instructions to play or interact with the program.
 
 ## Features
 - Bullet point list of what the project can do  
