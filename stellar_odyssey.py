@@ -1981,7 +1981,7 @@ while running:
     if in_fact_file and active_planet:
         active_fact_file = fact_files[active_planet.name]
         active_fact_file.update_scroll(dt)
-        active_fact_file.draw(screen, default_font)
+        active_fact_file.draw(screen)
 
         mouse_x, mouse_y = pygame.mouse.get_pos()
         if solar_system_button_rect.collidepoint((mouse_x, mouse_y)): # Solar System button hover effect
