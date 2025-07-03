@@ -14,10 +14,15 @@ My project is an educational game that provides users with an engaging learning 
 `requirements.txt` by running `pip install -r requirements.txt` in the terminal or command prompt.
 3. Run the main file:  
    `stellar_odyssey.py`  
-4. Follow the on-screen instructions to play or interact with the program.
+4. A game window will appear called 'Stellar Odyssey' and continue using the program as so (Press 'Play' to play main game, 'Login' to sign in/up or 'Help' to access game information.
 
 ## Features
-- Bullet point list of what the project can do  
-  - Example: Move using W/A/S/D  
-  - Enemies chase the player  
-  - Power-ups change game stat
+  - Clean and intuitive UI
+  - Player movement using WASD
+  - Several interactions with different sprites
+  - Unique fact files for each celestial body
+  - Unique explorable surfaces for each celestial body
+  - Fact boxes for unique features on each surface
+  - Collectable items unique to some surfaces
+  - Inventory to view collected items
+  - Login feature to save player progress (inventory)
